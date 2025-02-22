@@ -1,0 +1,8 @@
+{
+	"name": "day7b",
+	"packageManager": "yarn@4.4.1",
+	"scripts": {
+		"start": "node src/index.js"
+	},
+	"type": "module"
+}
